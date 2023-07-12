@@ -1,1 +1,1 @@
-[# rsschool-cv](https://immdin.github.io/rsschool-cv/cv)
+[# CV1 MARKDOWN AND GIT](https://immdin.github.io/rsschool-cv/cv)
