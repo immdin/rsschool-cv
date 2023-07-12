@@ -1,21 +1,21 @@
-# **MEDINE MINABILEVA**    
+ # **MEDINE MINABILEVA**    
  
-  #### Future Front-End Developer  
- <img src="img/din.jpg" alt="photo" width="200" />
+ #### Future Front-End Developer  
+  <img src="img/din.jpg" alt="photo" width="200" />
 
-# **CONTACTS** 
+ # **CONTACTS** 
 
-|**Phone:** | +5 555 555 555 |
-| --------- | :--------: |
-| **Email:** | <a href="mailto:dindin@gmail.com">medine@gmail.com</a>  |
-| **Github:** | <a href="https://github.com/immdin">Medine</a></div>  |
+ |**Phone:** | +5 555 555 555 |
+ | --------- | :--------: |
+ | **Email:** | <a href="mailto:dindin@gmail.com">medine@gmail.com</a>  |
+ | **Github:** | <a href="https://github.com/immdin">Medine</a></div>  |
 
 
-# **ABOUT ME**  
+ # **ABOUT ME**  
   I know WHY i want to become a developer. I've already learned basics and make a few projects. I am very responsible, I always finish what I start. All my life I follow this motto:  "DO what you LOVE, and LOVE what you DO", so I'm ready to devote all my free time to doing what i love.
 
   
-# **SKILLS**
+ # **SKILLS**
  | **TECH SKILLS** | **SOFT SKILLS** | **LANGUAGES** |
  | :-------------: | :-------------: | :-----------: |
  | HTML5 | Growth mindset | English  - B1 |
@@ -25,7 +25,7 @@
  | Business Analysis | Flexibillity | Russian - Native |
 
 
-# **MY PROJECTS**     
+ # **MY PROJECTS**     
   <li >
     <a  href="https://charming-chimera-d1f85b.netlify.app/" >Weather React App</a> 
           .........
@@ -45,7 +45,7 @@
        </li>
 
    
-# **MY EDUCATION**  
+ # **MY EDUCATION**  
   ### *SheCodes - coding workshops for woman* 
   ******************
   * React Development | 2023
