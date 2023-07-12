@@ -1,5 +1,4 @@
-
- # **MEDINE MINABILEVA**    
+# **MEDINE MINABILEVA**    
  
   #### Future Front-End Developer  
  <img src="img/din.jpg" alt="photo" width="200" />
@@ -44,9 +43,9 @@
      <a href="https://visionary-kleicha-446d9c.netlify.app/">Business Card</a>
      .................... [ JavaScript, HTML, CSS ] 
        </li>
+
    
- 
-  # **MY EDUCATION**  
+# **MY EDUCATION**  
   ### *SheCodes - coding workshops for woman* 
   ******************
   * React Development | 2023
